@@ -9,8 +9,8 @@ desde criança essa área despertou minha curiosidade e desde então sempre busc
     <a href="https://www.linkedin.com/in/davi-souza-b6251522b/"/>
         <img 
             alt="Meu Linkedin" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            title="Linkedin Acessar" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://github.com/Dsouza77?tab=repositories&sort=stargazers">
