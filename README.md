@@ -6,7 +6,25 @@ Davi Souza<br><br>[EN]<br>Junior Data Engineer passionate about technology, data
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-souza-b6251522b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@daviiszza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davisoudemen@gmail.com) 
 
 # 💻 Tech Stack:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+
+# 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![CSV Files](https://img.shields.io/badge/CSV%20Files-217346?style=for-the-badge)
+
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-FF6F00?style=for-the-badge)
+
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-1E90FF?style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Dsouza77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Dsouza77&theme=tokyonight&hide_border=false)<br/>
