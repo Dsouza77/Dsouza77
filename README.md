@@ -9,21 +9,7 @@ Davi Souza<br><br>[EN]<br>Junior Data Engineer passionate about technology, data
 
 # 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![CSV Files](https://img.shields.io/badge/CSV%20Files-217346?style=for-the-badge)
-
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-FF6F00?style=for-the-badge)
-
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-1E90FF?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![CSV Files](https://img.shields.io/badge/CSV%20Files-217346?style=for-the-badge)![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-FF6F00?style=for-the-badge)![Data Engineering](https://img.shields.io/badge/Data%20Engineering-1E90FF?style=for-the-badge)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Dsouza77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
